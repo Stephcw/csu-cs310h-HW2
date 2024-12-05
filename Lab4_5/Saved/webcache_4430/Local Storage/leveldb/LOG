@@ -1,2 +1,3 @@
-2024/12/04-22:03:14.470 7c60 Creating DB C:/Users/sqgun/OneDrive/Desktop/New folder/csu-cs310h-HW2/Lab4_5/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/12/04-22:03:14.480 7c60 Reusing MANIFEST C:/Users/sqgun/OneDrive/Desktop/New folder/csu-cs310h-HW2/Lab4_5/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/05-12:25:32.907 b20 Reusing MANIFEST C:/Users/sqgun/OneDrive/Desktop/New folder/csu-cs310h-HW2/Lab4_5/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/12/05-12:25:32.914 b20 Recovering log #3
+2024/12/05-12:25:32.918 b20 Reusing old log C:/Users/sqgun/OneDrive/Desktop/New folder/csu-cs310h-HW2/Lab4_5/Saved/webcache_4430\Local Storage\leveldb/000003.log 
